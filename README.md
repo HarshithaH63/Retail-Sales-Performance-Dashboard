@@ -102,7 +102,6 @@ The following business metrics were used:
 
 ## Limitations
 
-* Time-series analysis (monthly or yearly trends) was not included because the Excel web version could not properly convert text dates into date format.
 * The analysis focuses on categorical and geographic performance rather than seasonal trends.
 
 ---

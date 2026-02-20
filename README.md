@@ -28,7 +28,7 @@ The dataset includes the following key attributes:
 * Operating Profit
 * Operating Margin
 * Sales Method (In-Store / Outlet)
-* Invoice Date (not used in analysis due to web Excel limitations)
+* Invoice Date 
 
 ---
 
